@@ -1,3 +1,10 @@
+# Private info
+.secret
+*.secret
+.DS_Store
+node_modules
+*node_modules
+package-lock.json
 # Logs
 logs
 *.log
