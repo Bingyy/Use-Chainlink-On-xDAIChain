@@ -17,6 +17,9 @@ After `truffle compile` or `truffle migrate`, it will generate a directory which
 
 I add the directory of `client` which stores the Node.js script to interact with contracts on xDAIChain and ethereum mainnet or testnet.
 
+### Goal
+
+Get offchain data from Chainlink. Specifically, collect ETHUSD price from Chainlink PriceFeed.
 
 ### Environment Setting
 
@@ -47,3 +50,9 @@ npm install @truffle/hdwallet-provider
 
 ### Execution
 
+
+### Reference Links
+
+[xDAI Faucet](https://xdai-faucet.top/)
+[xDAI Official Docs](https://www.xdaichain.com/)
+[JSON Multiple Lines to One Line Tool](https://tools.knowledgewalls.com/online-multiline-to-single-line-converter)
